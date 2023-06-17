@@ -58,7 +58,7 @@ def update(rowName,gameName):
 # update('crack','test game name')
 # read('crack')
 # &is_aaa=true  &sort_by=crack_date
-insults = ['zaml', '9a7ba', 'wld l9a7ba', 'wld zaml', 'khanz', 'kalb','7mar','3tay' ,'kayt7wa', 'kay3tiha', 'akbar wld 9a7ba', 'akbar zaml','zob sucker','mossekh','bghal','da7ch','mt9ob','mkhawer','9awad']
+insults = ['noob']
 client = commands.Bot(command_prefix='.')
 client.remove_command("help")
 
